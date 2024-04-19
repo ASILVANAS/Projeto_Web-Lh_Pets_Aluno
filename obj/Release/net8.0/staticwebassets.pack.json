@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\adels\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Aluno\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Projeto_Web-Lh_Pets_Aluno.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Projeto_Web-Lh_Pets_Aluno.props",
+      "PackagePath": "build\\Projeto_Web-Lh_Pets_Aluno.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Projeto_Web-Lh_Pets_Aluno.props",
+      "PackagePath": "buildMultiTargeting\\Projeto_Web-Lh_Pets_Aluno.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Projeto_Web-Lh_Pets_Aluno.props",
+      "PackagePath": "buildTransitive\\Projeto_Web-Lh_Pets_Aluno.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

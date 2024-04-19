@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "OyFNhNwZInUF82rTH49TDhzO5ec+2tCSw7N9m7iIBzA=",
+  "Source": "Projeto_Web-Lh_Pets_Aluno",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Aluno",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Aluno\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Aluno",
+      "ContentRoot": "C:\\Users\\adels\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Aluno\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Aluno",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\adels\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Aluno\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Aluno",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adels\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Aluno\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Aluno",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
